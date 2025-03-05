@@ -100,5 +100,4 @@ Future Improvements:
 Contact Information:
    github link  : https://github.com/SuhainaG/InternshipBuddies/upload
    linkedin link :  linkedin.com/in/suhaina-g-2a083925a
-   Contact Number :  8088672153
-  Whatsapp Number :    7204384182
+   
